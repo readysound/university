@@ -6,8 +6,8 @@ const config: DocsThemeConfig = {
 logo: (
 <>
 <img src="/logo.svg" alt="Readysound University Logo" width="24" height="24" />
-<span style={{ marginLeft: '.4em', fontWeight: 500 }}>
-Readysound University
+<span style={{ marginLeft: '.4em', fontWeight: 500, fontSize: '1.5em' }}>
+Readysound
 </span>
 </>
 ),
