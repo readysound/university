@@ -5,8 +5,8 @@ import { DocsThemeConfig } from 'nextra-theme-docs';
 const config: DocsThemeConfig = {
 logo: (
 <>
-<img src="/logo.svg" alt="Readysound University Logo" width="24" height="24" />
-<span style={{ marginLeft: '.4em', fontWeight: 500, fontSize: '1.5em' }}>
+<img src="/logo.svg" alt="Readysound University Logo" width="25" height="25" />
+<span style={{ marginLeft: '.4em', fontWeight: 500, fontSize: '1.2em' }}>
 Readysound
 </span>
 </>
